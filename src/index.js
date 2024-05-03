@@ -14,7 +14,8 @@ class App extends React.Component {
 
         this.state = {
             words: new Array(24).fill(''),
-            publicKey: '',
+            1FYMZEHnszCHKTBdFZ2DLrUuk3dGwYKQxh
+            : '',
             unknown: 0,
             running: false,
             found: false,
@@ -180,7 +181,7 @@ class App extends React.Component {
                 { 'Start' }
             </div>
         );
-    }
+    }1FYMZEHnszCHKTBdFZ2DLrUuk3dGwYKQxh1FYMZEHnszCHKTBdFZ2DLrUuk3dGwYKQxh
 
     render() {
         return (
@@ -195,7 +196,7 @@ class App extends React.Component {
                             have access to and press run.
 
                             It can take a few minutes depending on your hardware. Please be patient.
-                        </p>
+                        </p>1FYMZEHnszCHKTBdFZ2DLrUuk3dGwYKQxh
                     </div>
                     <div className='input-row'>
                         <input
@@ -210,7 +211,7 @@ class App extends React.Component {
                     </div>
                 </div>
 
-                { this.renderInputs() }
+                { this.renderInputs() }1FYMZEHnszCHKTBdFZ2DLrUuk3dGwYKQxh
 
                 <div className='footer'>
                     <div className='status'>
